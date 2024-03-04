@@ -6,6 +6,22 @@
     <title>Página Inicial</title>
 </head>
 <body>
-    Olá mundo!
+    <table>
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Email</th>
+                <th colspan="2">Opções</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>1</td>
+                <td>Thiago</td>
+                <td>Alterar</td>
+                <td>Excluir</td>
+            </tr>
+        </tbody>
+    </table>
 </body>
 </html>
