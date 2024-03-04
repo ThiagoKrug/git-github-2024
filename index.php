@@ -6,6 +6,7 @@
     <title>Página Inicial</title>
 </head>
 <body>
+    <a href="form.php">Cadastrar</a>
     <table>
         <thead>
             <tr>
